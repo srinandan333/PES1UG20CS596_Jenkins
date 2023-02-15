@@ -16,7 +16,7 @@ pipeline
         {
             steps
             {
-                sh './PES1UG20CS596'
+                sh './PES1UG20CS595'
                 echo 'TEST STAGE SUCCESSFUL'
             }
         }
